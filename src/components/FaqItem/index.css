@@ -1,0 +1,30 @@
+/* Write your code here. */
+.card {
+  padding: 30px;
+  margin: 5%;
+  border: 1px solid #9aa5b1;
+  border-radius: 10px;
+  width: 70vw;
+}
+.heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+h3 {
+  font-weight: bold;
+}
+p {
+  color: #52606d;
+}
+.btn {
+  padding: 5px;
+  border: none;
+  outline: none;
+  background-color: white;
+}
+
+.d-none {
+  display: none;
+}
